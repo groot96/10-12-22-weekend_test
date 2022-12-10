@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+    background-color: #1E1E1E;
+}
+
+#input-id{
+    width: 972px;
+    border-bottom: #ffffff;
+     border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+}
+
+.wrapper{
+    width: 1578px;
+    height: 1200px;
+    top: -457px;
+    left: -715px;
+}
+
+.form-div{
+    background-color: black;
+    width: 1181px;
+    height: 950px;
+    top: 100px;
+    left: 198px;
+    position: absolute;
+    border: 1px solid 
+}
+
+#heading1{
+    position: absolute;
+    width: 550px;
+    height: 154px;
+    left: 202px;
+    top: 100px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 64px;
+    line-height: 77px;
+    color: #ffffff;
+}
+
+.name{
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 202px;
+    top: 278px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+}
+
+.input1{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 202px;
+    top: 312px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.email{
+    position: absolute;
+    width: 60px;
+    height: 29px;
+    left: 202px;
+    top: 352px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;  
+    color: #ffffff;
+}
+
+.input2{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 202px;
+    top: 386px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.pass{
+    position: absolute;
+    width: 109px;
+    height: 29px;
+    left: 202px;
+    top: 426px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;   
+    color: #ffffff;
+}
+
+.input3{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 202px;
+    top: 460px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.cnfm-pass{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 202px;
+    top: 500px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;   
+    color: #ffffff;
+}
+
+.input4{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 202px;
+    top: 534px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.dob{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 202px;
+    top: 574px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;   
+    color: #ffffff;
+}
+
+.input5{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 202px;
+    top: 608px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.input6{
+    box-sizing: border-box;
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 202px;
+    top: 656px;
+    visibility: visible;
+    border: 1px solid #FFFFFF;   
+    border-radius: 1000px;
+
+ }
+ .student{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 229px;
+    top: 654px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+
+ }
+
+ .input7{
+    box-sizing: border-box;
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 383px;
+    top: 656px;
+    border: 1px solid #FFFFFF;
+    border-radius: 1000px;
+
+ }
+ .employee{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 407px;
+    top: 654px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+
+ }
+
+ .input8{
+    box-sizing: border-box;
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 198px;
+    top: 713px;
+    border: 1px solid #ffffff;
+    background: black;
+    
+ }
+ .check{
+    position: absolute;
+    left: 232px;
+    top: 709px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+    background-color: black;
+ }
+
+ #btn{
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    left: 198px;
+    top: 808px;
+    font-family: 'inter';
+    font-style: normal;
+    font-weight: 300px;
+    font-size: 24px;
+    line-height: 29px;
+    color: black;
+}
+
